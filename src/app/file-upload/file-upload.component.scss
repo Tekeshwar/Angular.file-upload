@@ -1,0 +1,12 @@
+.upload-confirmation {
+  color: green;
+}
+.progressbar {
+  margin-top: 5px;
+}
+
+.form-group {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-column-gap: 5px;
+}
